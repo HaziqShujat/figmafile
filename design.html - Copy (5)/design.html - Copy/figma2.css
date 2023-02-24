@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Lato:wght');
+.body {
+
+width: 1366px;
+height: 1200px;
+
+
+background: #E9E1FF;
+}
+.stocks {
+    display: flex;
+    gap: 216px;
+}
+.fox {
+    display: flex;
+    gap: 200px;
+font-family: 'Everett';
+align-items: center;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 20px
+
+}
+.bar {
+    display: flex;
+    width: 344px;
+height: 40px;
+align-items: center;
+gap: 35px;
+background: #F7F6F9;
+border-radius: 8px;
+}
+.ox {
+    display: flex;
+    align-items: center;
+    gap: 88px;
+     margin-left: 27px;
+}
+.vec {
+    width: 16.4px;
+    height: 16.87px;
+}
+.bdline {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+    background-color:#EFE9FF;
+color:#6425FE;
+border-radius: 10px
+}
+.ve {
+    width: 18px;
+    height: 18px;
+}
+.bd2 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.bd3 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.bd4 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.bd5 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.bd6 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.bd7 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.vec11 {
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+    margin-top: 100px;
+}
+.vec10 img {
+    width: 150px;
+}
+.mani {
+    margin-left: 383px;
+    margin-top: -780px;
+     background: #F7F6F9;
+     border-radius: 3px;
+     width: 880px;
+     margin-right: 100px;
+height: 790px;
+padding-inline: 40px;
+padding-top: 20px;
+}   
+.vec12 {
+    width: 24px;
+    height: 24px;
+    padding-left: 23px;
+    display: flex;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+p {
+    margin: 0;
+}
+.main2 {
+    width:220px ;
+    display: flex;
+    
+}
+.nv {
+gap: 10px;
+margin-right: 12px;
+padding-top: 19px;
+}
+
+.box {
+    border-radius: 9px;
+    width: 209px;
+    height: 116px;
+    background-color: #A6F7E2;
+    padding: 16px;
+    
+}
+.npv {
+    display: flex;
+    height: 24px;
+    padding-left: 6px;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.dl {
+    color: #77B900;
+
+}
+.sub {
+    display: flex;
+    align-items: center;
+}
+.sub2 {
+    display: flex;
+    gap: 25px;
+}
+
+
+.box2 {
+    border-radius: 9px;
+    width: 209px;
+    height: 116px;
+    background-color: #B79BFF;
+    ;
+    padding: 16px;
+}
+.npv2 {
+    display: flex;
+    height: 24px;
+    padding-left: 6px;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.dl {
+    color:  lightgreen;
+
+
+}
+.sub3 {
+    display: flex;
+    align-items: center;
+}
+.sub4 {
+    display: flex;
+    gap: 25px;
+}
+
+.box3 {
+    border-radius: 9px;
+    width: 209px;
+    height: 116px;
+    background-color: #FFE5A5;
+    padding: 16px;
+}
+.npv3 {
+    display: flex;
+    height: 24px;
+    padding-left: 6px;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.dl3 {
+    color: #77B900;
+
+}
+.sub5 {
+    display: flex;
+    align-items: center;
+}
+.sub6 {
+    display: flex;
+    gap: 25px;
+}
+
+.box4 {
+    border-radius: 9px;
+    width: 209px;
+    height: 116px;
+    background-color: #C7FFA5;
+    padding: 16px;
+}
+.npv4 {
+    display: flex;
+    height: 24px;
+    padding-left: 6px;
+    width: 252px;
+    height: 56px;
+    align-items: center;
+    gap: 12px;
+}
+.dl4 {
+    color: #77B900;
+
+}
+.sub7 {
+    display: flex;
+    align-items: center;
+}
+.sub8 {
+    display: flex;
+    gap: 25px;
+}

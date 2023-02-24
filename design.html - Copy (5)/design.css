@@ -1,0 +1,133 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Wendy+One&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Wendy+One&display=swap');
+
+
+
+.body{
+    width: 230px;
+    height: 230px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 230px;
+    height: 370px;
+    background: #F7CDBF;
+    font-family:  'Wendy One';
+    padding: 27px;
+    border-radius: 2px;
+
+
+    
+}
+.hn {
+    font-family: 'Wendy One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    text-align: center;
+    color: #642C99;
+
+}
+
+.line {
+    width: 230px;
+    border: 1px solid #642C99;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+
+.main {
+
+    display: flex;
+    justify-content: space-around;
+    gap: 90px;
+}
+.main-2{
+    display: flex;
+    gap: 10px;
+}
+
+.content p {
+    margin: 0px;
+    
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+text-align: center;
+
+color: #642C99;
+
+
+}
+
+.main-3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.doler p {
+    margin: 0px;
+    color: #642C99;
+    
+}
+.content2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    color: #642C99;
+}
+.line2 {
+    width: 177px;
+    border: 1px solid #642C99;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+.content2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    color: #642C99;
+}
+.endtext {
+    display: flex;
+    justify-content: space-between;
+    color: #642C99;
+    margin-top: 20px;
+
+}
+.button {
+    width: 205.5px;
+height: 29.5px;
+color: white;
+background: #642C99;
+border-radius: 8px;
+border: #642C99;
+margin-left: 11px;
+margin-top: 20px;
+}
+.pay {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+color: #642C99;
+}
+
+
+
+

@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Lato:wght');
+.body {
+
+width: 1366px;
+height: 1200px;
+
+
+background: #E9E1FF;
+}
+
+.full{
+    display: flex;
+}
+.main{
+width: 315px;
+height: 1126px;
+}
+.main-1 {
+    display: flex;
+    width: 1442px;
+height: 96px;
+margin-top: -392px;
+margin-left: 200px;
+    
+}
+.mani {
+    display: flex;
+    margin-left: -39px;
+}
+.fox {
+    margin-top: 49px;
+}
+.user {
+    margin-top: 72px;
+}
+.frame {
+    margin-top: 61px;
+    margin-left: 27px;
+}
+.vp {
+    display: flex;
+    justify-content: center;
+    margin-right: 108px;
+    margin-top: 15px;
+}
+.vec {
+    margin-right: 120px;
+    margin-top: 15px;
+}
+.por {
+    margin-left: -110px
+}
+.mark {
+    display: flex;
+    justify-content: center;
+    margin-right: 57px;
+}
+.tard {
+    margin-top: 14px;
+    margin-right: 7px;
+}
+.map {
+    display: flex;
+    margin-left: -1px;
+    margin-top: 15px;
+}
+.port {
+    margin-left: 54px;
+}
+.matrl {
+    margin-left: 5px;
+    margin-top: 3px;
+}
+
